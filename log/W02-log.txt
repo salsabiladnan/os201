@@ -1,2 +1,19 @@
-OS 2020 1
-Assignments of week 02: done!
+-----BEGIN PGP MESSAGE-----
+Version: BCPG C# v1.6.1.0
+
+hQIMA9D1291n323eARAAgN/zujUCEwTSJlUlheDqUbnh2S0tOX/vgqkWwPIx6gYR
+Gwjisv8Y5VbeS+vJoGIUQT6SSiWOsL9X4wZmNcrpvykTml7pCpQB5mtMDN3Rdf/k
+/kPS+tX3z3wMAreux8p410HdLoixPucf0oe5QO2VA4xcAVabYRqr8n9yTReywqEf
+VUqmpmSx73Nqq4r6bicvpNF8noAeJTsDQow0SnBuEyqrap2DJ9T9KhfpOw1CgiZc
+AqopV3u1ueYVD/+kskDAPZfCtabOsG6LQWW2BRWIMmkrJa62bx8k6jcgJ0oYOG4j
+btN7EEqUh8FN0wtSFy6grso7n1gvIuG9VmFD+l+8W91GmsdXIeuDI2l2zA8hkm5s
+iIksZOVpCNkEcdCawrugP/cb3dzS3cTiBKbvqL2gm29aMHVfuSlWZflVGAGcZW8h
+m2aCzGh2ZBA9KbkayR8tlUeFDuH3P/JIKA7D07Z6a/KtXByQkvoy7nNOMQxmK9CT
+hPS8FTawvMfjIiCBRPrWNZonqAiHxczDTytiDir/OioB39VPPpW7KreUDvqN487c
+/eMzvwtxgE1fz4kYVPtfQOSWfrDNsOBGrBnaTv8GS7cA7clkKGnkWxX9f5P9ugdZ
+AJUxbKfwaDnL+fb1kmXCAPbVg6mkpasq/pHlgJSjKRayOOqz1NJU23DG/Q9H95vJ
+Ra2bEc6kWHra+nE2bZjhZ4ZTmB6UJlZvJLFGGaWEelSrSyb0taG7GMlFpipOzqIk
+ewczivUAEbafrN6zzdZU3ZDEDCoD/w==
+=i++e
+-----END PGP MESSAGE-----
+
